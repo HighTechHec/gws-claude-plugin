@@ -1,0 +1,14 @@
+{
+  "name": "gws-marketplace",
+  "description": "Google Workspace CLI skills for Claude",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/wadewarren/gws-claude-plugin",
+  "plugins": [
+    {
+      "name": "gws",
+      "description": "Google Workspace CLI — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more",
+      "source": ".",
+      "version": "0.16.0"
+    }
+  ]
+}
