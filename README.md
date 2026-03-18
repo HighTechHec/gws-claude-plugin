@@ -30,7 +30,11 @@ OpenClaw users moving to Claude's safer, sandboxed Cowork + Dispatch environment
 ## Installation
 
 ```bash
-claude plugin add https://github.com/wadewarren/gws-claude-plugin
+# Add the marketplace
+claude plugin marketplace add https://github.com/WadeWarren/gws-claude-plugin
+
+# Install the plugin
+claude plugin install gws
 ```
 
 ## Authentication
